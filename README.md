@@ -1,7 +1,7 @@
 # Leetcode-Solutions
 # My Solutions to Leetcode Problems. 
 
-I will be uploading a ton of solutions here .  
+All solutions would be available here from now. [including previously solved ones]  :) 
 
 Find my profile at leetcode. 
 
